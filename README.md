@@ -16,16 +16,10 @@ Personal web-site: https://kee-reel.com
 
 Education:
 
-* Bachelor (4 years):
-    * University: BSTU “Voenmech”
-    * Course: “Information systems and technologies”
+* Bachelor (4 years), BSTU “Voenmech”, “Information systems and technologies”, 2017
     * Thesis: “Development of personal information management system”
-    * Graduation year: 2017
-* Master (2 years):
-    * University: BSTU “Voenmech”
-    * Course: “Program engineering”
+* Master (2 years), BSTU “Voenmech”, “Program engineering”, 2019
     * Thesis: “Research of modular development process of software components for person-oriented information systems”
-    * Graduation year: 2019
 
 Experience:
 
