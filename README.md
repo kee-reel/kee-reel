@@ -1,32 +1,68 @@
-![](https://kee-reel.com/assets/images/ghost.gif)
-
-Personal web-site: https://kee-reel.com
-
-| Skill | Level | Source |
-|-------|---------|-------------|
-| Python | 🤟 | 3 years in Wargaming project |
-| С/C++ | 👍 | 6 years of day-to-day tasks + [big pet-project](https://github.com/kee-reel/PLAG) |
-| Qt | 👍 | 2 years in Sinvent project + [big pet-project](https://github.com/kee-reel/PLAG) |
-| SQL | 👌 | Day-to-day tasks at work and pet projects |
-| Unity3D | 👌 | 3 years in Sinvent project |
-| Linux/Bash | ❤️| ~7 years of daily Linux usage and tinkering |
-| Go | 👍 | Lovely [pet project](https://github.com/kee-reel/LATEST) |
-
-Education:
-
-* Bachelor (4 years), BSTU “Voenmech”, “Information systems and technologies”, 2017
-    * Thesis: “Development of personal information management system”
-* Master (2 years), BSTU “Voenmech”, “Program engineering”, 2019
-    * Thesis: “Research of modular development process of software components for person-oriented information systems”
-
-Experience:
-
-* 3 years in AO RI Sinvent (Sinvent, JSC):
-    * Project: driver training simulator on base of moving platform
-    * Development of virtual environment and car behavior simulation on C#/Unity3D
-    * Deveopment of client application for remote control of training simulation on C++/Qt: weather conditions, exercises and car malfunction control
-* 3 years in Wargaming Saint Petersburg:
-    * Project: game World of Warships Legends
-    * Porting of PC project on platforms (XBox Live and PS network integration): XBox One, Xbox Series X, PS4, PS5
-    * Development of meta-game systems on C++/Python: in-game store, daily tasks, notifications, matchmaker
-* Since september of 2021 I’m working in BSTU “Voenmech” as teacher of classes: Computer Science, C/C++ and OpenGL
+```python
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx////////////xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx////////////////////xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx////////////xxxxxxxxx///xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx///////////xxxxxxxxxxxxx//xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx////////////xxxxxxxxxxxxxx/xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx/////////////xxxxxxxxxxxxxx//xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx//////////////xxxxx/xxxxxxxxx/xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx///////////////////////xx///////xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx////////////////////////xx/////xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx//////////////////////xx//xxxx//xxxxxxxxxxxxxx
+xxxxxxxxxxxxxx//////////////////xxxxxx////xxx//xxxxxxxxxxxxxx
+xxxxxxxxxxxxx///////////////////xxxxxx////xxx//xxx|Hello   |x
+xxxxxxxxxxxxx///////////////////xxxx/////x////x/xx|stranger|x
+xxxxxxxxxxxxx///////////////////xxx//////xxx//xx/xxxxxxxxxxxx
+xxxxxxxxxxxxx//////////////////////xxx////x////xxxxxxxxxxxxxx
+xxxxxxxxxxxxxx//////////////////////xx////x/////xxxxxxxxxxxxx
+xxxxxxxxxxxxxxx///////////////////////////////xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx/////////////////xxxxx/////////xxxxxxxxxxxxxxx
+xxxxxxxxxxxx/////////////////xxxxxxxxx////////////xxxxxxxxxxx
+xxxxxxx////////////////////xx///xxxxx//////////////////xxxxxx
+xxxx////////////////////xxxxxxxxxxxx//////////////////////xxx
+x/////////////////////////xxxxxxxxxx////////////////////////x
+///////////////////////////xxxxxxxx//////////////////////////
+///////////////////////////////xx////////////////////////////
+/////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
+////////////////|This is my personal web site|///////////////
+////////////////|   https://kee-reel.com     |///////////////
+////////////////|  (sry but it's in russian) |///////////////
+/////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
+/////////////////////| My skills |///////////////////////////
+|------------|-------|--------------------------------------|
+| Skill      | Level | Experience                           |
+|------------|-------|--------------------------------------|
+| Python     | Great | 3 years in Wargaming project         |
+| Go         | Cool  | Lovely pet project (LATEST)          |
+| С/C++      | Cool  | 6 years + big pet-project (PLAG)     |
+| Qt         | Nice  | 2 years + big pet-project (PLAG)     |
+| SQL        | Nice  | Day-to-day tasks and pet projects    |
+| Unity3D    | Nice  | 3 years                              |
+| Linux/Bash | Love  | ~7 years of daily Linux usage        |
+|-----------------------------------------------------------|
+/////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
+//////////////////////|Work experience|//////////////////////
+|-----------------------------------------------------------|
+|3 years in AO RI Sinvent (Sinvent, JSC)                    |
+|Proj: driver simulator https://youtu.be/Ic0WSKOxKSo?t=82   |
+|C#/Unity3D App for environment and car simulation          |
+|C++/Qt App for remote control of training simulation       |
+|-----------------------------------------------------------|
+|3 years in Wargaming Saint Petersburg                      |
+|Proj: World of Warships Legends                            |
+|PC project porting on: XBox One, Xbox Series X, PS4, PS5   |
+|Meta-game systems: store, tasks, notifications, matchmaker |
+|-----------------------------------------------------------|
+|Currently at university BSTU “Voenmech”                    |
+|Teacher of classes: Computer Science, C and OpenGL         |
+|-----------------------------------------------------------|
+/////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
+////////////////|Until next time stranger|///////////////////
+/////////////////////////////////////////////////////////////
+```
