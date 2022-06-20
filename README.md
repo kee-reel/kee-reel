@@ -1,5 +1,3 @@
-> M355 W17H 7H3 B357 D13 L1K3 7H3 R357
-
 ![](https://kee-reel.com/assets/images/ghost.gif)
 
 Personal web-site: https://kee-reel.com
