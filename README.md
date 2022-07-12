@@ -4,15 +4,20 @@ My blog: https://kee-reel.com (in russian)
 
 
 ### My skills 
-| Skill      | Level | Experience                           |
-|------------|-------|--------------------------------------|
-| Python     | Great | 3 years in Wargaming project         |
-| Go         | Cool  | Lovely pet project (LATEST)          |
-| С/C++      | Cool  | 6 years + big pet-project (PLAG)     |
-| Qt         | Nice  | 2 years + big pet-project (PLAG)     |
-| SQL        | Nice  | Day-to-day tasks and pet projects    |
-| Unity3D    | Nice  | 3 years                              |
-| Linux/Bash | Love  | ~7 years of daily Linux usage        |
+| Skill      | Level    | Experience                           |
+|------------|----------|--------------------------------------|
+| Python     | ▁▂▃▄▅▆▇█ | 3 years in Wargaming project         |
+| Linux/Bash | ▁▂▃▄▅▆▇█ | ~7 years of daily Linux usage        |
+| Qt         | ▁▂▃▄▅▆▇  | 2 years + big pet project [PLAG](/PLAG)     |
+| С/C++      | ▁▂▃▄▅▆   | 6 years + big pet project [PLAG](/PLAG)     |
+| SQL        | ▁▂▃▄▅▆   | Day-to-day tasks and pet projects    |
+| Unity3D    | ▁▂▃▄▅▆   | 3 years in Sinvent                   |
+| C#         | ▁▂▃▄▅▆   | 3 years in Sinvent                   |
+| Go         | ▁▂▃▄▅    | Lovely pet project [LATEST](/LATEST)          |
+| NASM       | ▁▂▃▄     | Book (can manualy "compile" C)       |
+| Lua        | ▁▂▃▄     | CodeWars and pet project             |
+| JS         | ▁▂▃▄     | Pet projects, CodeWars, BitBurner    |
+| HTML/CSS   | ▁▂▃▄     | Several small pet projects           |
 
 ### Work experience
 * 3 years in AO RI Sinvent (Sinvent, JSC)
