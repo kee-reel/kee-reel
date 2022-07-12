@@ -8,12 +8,12 @@ My blog: https://kee-reel.com (in russian)
 |------------|----------|--------------------------------------|
 | Python     | ▁▂▃▄▅▆▇█ | 3 years in Wargaming project         |
 | Linux/Bash | ▁▂▃▄▅▆▇█ | ~7 years of daily Linux usage        |
-| Qt         | ▁▂▃▄▅▆▇  | 2 years + big pet project [PLAG](/PLAG)     |
-| С/C++      | ▁▂▃▄▅▆   | 6 years + big pet project [PLAG](/PLAG)     |
+| Qt         | ▁▂▃▄▅▆▇  | 2 years + big pet project PLAG     |
+| С/C++      | ▁▂▃▄▅▆   | 6 years + big pet project PLAG     |
 | SQL        | ▁▂▃▄▅▆   | Day-to-day tasks and pet projects    |
 | Unity3D    | ▁▂▃▄▅▆   | 3 years in Sinvent                   |
 | C#         | ▁▂▃▄▅▆   | 3 years in Sinvent                   |
-| Go         | ▁▂▃▄▅    | Lovely pet project [LATEST](/LATEST)          |
+| Go         | ▁▂▃▄▅    | Lovely pet project LATEST          |
 | NASM       | ▁▂▃▄     | Book (can manualy "compile" C)       |
 | Lua        | ▁▂▃▄     | CodeWars and pet project             |
 | JS         | ▁▂▃▄     | Pet projects, CodeWars, BitBurner    |
