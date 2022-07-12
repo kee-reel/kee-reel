@@ -8,16 +8,16 @@ My blog: https://kee-reel.com (in russian)
 |------------|----------|--------------------------------------|
 | Python     | ▁▂▃▄▅▆▇█ | 3 years in Wargaming project         |
 | Linux/Bash | ▁▂▃▄▅▆▇█ | ~7 years of daily Linux usage        |
+| Go         | ▁▂▃▄▅▆▇    | Lovely pet project LATEST          |
 | Qt         | ▁▂▃▄▅▆▇  | 2 years + big pet project PLAG     |
-| С/C++      | ▁▂▃▄▅▆   | 6 years + big pet project PLAG     |
-| SQL        | ▁▂▃▄▅▆   | Day-to-day tasks and pet projects    |
+| С/C++      | ▁▂▃▄▅▆▇   | 6 years + big pet project PLAG     |
 | Unity3D    | ▁▂▃▄▅▆   | 3 years in Sinvent                   |
-| C#         | ▁▂▃▄▅▆   | 3 years in Sinvent                   |
-| Go         | ▁▂▃▄▅    | Lovely pet project LATEST          |
+| C#         | ▁▂▃▄▅▆   | 3 years in Sinvent + pet project  |
+| SQL        | ▁▂▃▄▅   | Day-to-day tasks and pet projects    |
 | NASM       | ▁▂▃▄     | Book (can manualy "compile" C)       |
-| Lua        | ▁▂▃▄     | CodeWars and pet project             |
-| JS         | ▁▂▃▄     | Pet projects, CodeWars, BitBurner    |
-| HTML/CSS   | ▁▂▃▄     | Several small pet projects           |
+| JS         | ▁▂▃     | Pet projects, CodeWars, BitBurner    |
+| HTML/CSS   | ▁▂     | Several small pet projects           |
+| Lua        | ▁▂     | CodeWars and pet project             |
 
 ### Work experience
 * 3 years in AO RI Sinvent (Sinvent, JSC)
