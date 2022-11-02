@@ -32,3 +32,5 @@ My blog: https://kee-reel.com (in russian)
 
 * 1 year at university BSTU “Voenmeh”
   * Teacher of classes: Computer Science, C/C++ and OpenGL
+
+* Currently working in Luxoft on BMW project
