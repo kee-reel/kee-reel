@@ -1,4 +1,4 @@
-My blog: https://kee-reel.com (in russian)
+My blog: https://kee-reel.com
 
 ![](https://64.media.tumblr.com/48d21fd5ea55430114a77c5447a3357f/tumblr_n0a4hrWLLx1t77hk0o1_500.gif)
 
