@@ -25,7 +25,7 @@ My blog: https://kee-reel.com
   * C#/Unity3D App for environment and car simulation
   * C++/Qt App for remote control of training simulation
 
-* 3 years in Wargaming Saint Petersburg
+* 3 years in Wargaming (Lesta studio)
   * Proj: World of Warships Legends
   * PC project porting on: XBox One, Xbox Series X, PS4, PS5
   * Meta-game systems: store, tasks, notifications, matchmaker
@@ -33,4 +33,9 @@ My blog: https://kee-reel.com
 * 1 year at university BSTU “Voenmeh”
   * Teacher of classes: Computer Science, C/C++ and OpenGL
 
-* Currently working in Luxoft on BMW project
+* 1 year in Luxoft
+  * Proj: BMW autonomous driving platform
+  * Automotive-related tools and protocols
+  * C/C++ development of subsystems in vast enterprise software landscape
+
+* Currently working in Wargaming on security-related position
